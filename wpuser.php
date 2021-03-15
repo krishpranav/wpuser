@@ -2,8 +2,7 @@
 <?php
 header ('Content-type: text/html; charset=UTF-8');
 
-
-$url= "";
+$url= ""; #your target website to get the username
 $payload="wp-json/wp/v2/users/";
 $urli = file_get_contents($url.$payload);
 $json = json_decode($urli, true);
