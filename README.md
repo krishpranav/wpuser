@@ -5,3 +5,5 @@ A simple php tool for getting wp username
 - git clone https://github.com/krishpranav/wpuser
 - cd wpuser
 - chmod +x *
+- php wpuser.php
+
