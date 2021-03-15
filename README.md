@@ -7,4 +7,6 @@ A simple php tool for getting wp username
 - chmod +x *
 - php wpuser.php
 
-# Note: This is not my creation this a code take from
+# DISCLAIMER
+- Note: This is not my creation this a code take from
+- https://www.exploit-db.com/exploits/41497
